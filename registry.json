@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-22",
+  "organization": "My organization",
+  "note": "Duración real medida con ffmpeg, no 90 minutos. Sin bucle. Planos de Wikimedia sin repetir archivo. No hay canal de Instagram.",
+  "videos": [
+    {
+      "file": "ia_golpe_2026.mp4",
+      "channel": "IA AL ALCANCE",
+      "channelId": "6abb15f5ea19ca0bde1c22f5",
+      "title": "2026: El golpe más brutal del mar no es de un tiburón",
+      "thumb": "NO ES TIBURÓN",
+      "voice": "es-MX-DaliaNeural",
+      "categoryId": "15",
+      "theme": "camarón mantis, camarón pistola, pez arquero, barreleye, pulpo mimo, calamar vampiro, pez luna, dragón marino foliado, tiburón de Groenlandia, ajolote, ranita de Darwin, sapo de Surinam, basilisco, serpiente voladora, lagartija cornuda, tuátara, rata topo desnuda, topo de nariz estrellada, wombat, lobo de crin, kakapo, guácharo, quebrantahuesos, araña pavo real, escarabajo bombardero, cuervo de Nueva Caledonia, cangrejo yeti, caracol de pie escamoso, Electrophorus, saltarín del fango",
+      "duration_sec": 1133.17
+    },
+    {
+      "file": "fe_ana_2026.mp4",
+      "channel": "Refugio en la Palabra",
+      "channelId": "6ab1ecc9ea19ca0bdeaf3f13",
+      "title": "2026: La llamaron borracha por orar en silencio",
+      "thumb": "SIN UNA GOTA",
+      "voice": "es-MX-JorgeNeural",
+      "categoryId": "27",
+      "theme": "Ana y Samuel, 1 Samuel 1, Silo, Elí. No Rut, no Agar, no Nehemías.",
+      "duration_sec": 486.33
+    },
+    {
+      "file": "cu_ojos_2026.mp4",
+      "channel": "Anatomía del Engaño",
+      "channelId": "6aed1047e29c69a171780e87",
+      "title": "2026: Tus ojos se mueven y no puedes verte hacerlo",
+      "thumb": "NO LOS VES",
+      "voice": "es-CO-SalomeNeural",
+      "categoryId": "27",
+      "theme": "supresión sacádica, punto ciego, ciclo nasal, cosquillas, mito de uñas; eneldo, fenogreco, perejil, pimentón, alcaravea",
+      "duration_sec": 368.38
+    }
+  ],
+  "amazon_tag": "michelgonza02-20",
+  "instagram": "no existe canal Instagram en Buffer"
+}
